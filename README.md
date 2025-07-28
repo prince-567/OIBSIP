@@ -14,7 +14,7 @@ This repository contains all the tasks completed during the OIBSIP Internship.
    - [server.py]
    - [client.py] 
    - [text.text]
-   - 
+     
 6. **Task 4** – Weather App with GUI  
    [weather_gui.py]
    
